@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/lomik/go-whisper"
+	"github.com/gitinsky/cassandrisper"
 	"github.com/stretchr/testify/assert"
 )
 

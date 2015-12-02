@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/lomik/go-whisper"
+	"github.com/gitinsky/cassandrisper"
 
 	"github.com/lomik/go-carbon/points"
 )
